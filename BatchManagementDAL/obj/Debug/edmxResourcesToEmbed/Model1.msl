@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BatchManagementModelStoreContainer" CdmEntityContainer="BatchManagementEntities">
+    <EntitySetMapping Name="Batches">
+      <EntityTypeMapping TypeName="BatchManagementModel.Batch">
+        <MappingFragment StoreEntitySet="Batch">
+          <ScalarProperty Name="BatchId" ColumnName="BatchId" />
+          <ScalarProperty Name="BatchName" ColumnName="BatchName" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="TentativeEndData" ColumnName="TentativeEndData" />
+          <ScalarProperty Name="NoOfHours" ColumnName="NoOfHours" />
+          <ScalarProperty Name="HoursTaken" ColumnName="HoursTaken" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BatchSchedules">
+      <EntityTypeMapping TypeName="BatchManagementModel.BatchSchedule">
+        <MappingFragment StoreEntitySet="BatchSchedule">
+          <ScalarProperty Name="ScheduleId" ColumnName="ScheduleId" />
+          <ScalarProperty Name="BatchId" ColumnName="BatchId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="HoursTaken" ColumnName="HoursTaken" />
+          <ScalarProperty Name="TopicsTaken" ColumnName="TopicsTaken" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

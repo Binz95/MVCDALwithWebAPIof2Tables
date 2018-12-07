@@ -1,0 +1,12 @@
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\BatchManagementDAL.dll
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\BatchManagementDAL.pdb
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\obj\Debug\BatchManagementDAL.csproj.CoreCompileInputs.cache
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\obj\Debug\BatchManagementDAL.dll
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\obj\Debug\BatchManagementDAL.pdb
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\BatchManagementDAL.dll.config
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\EntityFramework.dll
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\EntityFramework.xml
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\obj\Debug\BatchManagementDAL.csprojAssemblyReference.cache
+C:\ng\Dec6\BatchManagementMVCMultiTier\BatchManagementDAL\obj\Debug\BatchManagementDAL.csproj.CopyComplete
